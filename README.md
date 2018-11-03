@@ -12,4 +12,7 @@ User attacks enemy ships by guessing coordinates
 If you are interested in running this application, you need to install java and jdk and then run the commands `javac BattleshipApplication.java` and `java BattleshipApplication`
 
 # Screenshots:
-![Alt text](/screenshots/home.PNG)
+![Alt text](/screenshots/start.PNG)
+![Alt text](/screenshots/selecting_ships.PNG)
+![Alt text](/screenshots/lose.PNG)
+![Alt text](/screenshots/win.PNG)
